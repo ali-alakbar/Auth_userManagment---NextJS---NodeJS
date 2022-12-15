@@ -1,5 +1,5 @@
-# Ali Assignment
-This assignment is a project for BenchMark to add/remove users for the favourite page.
+# Auth system and user managment system
+This project is to add/remove users for the favourite page.
 
 # How it works
 - The user have to sign up/login first to be rendered a new page where he can find a list of users where he can add them.
